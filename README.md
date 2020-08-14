@@ -37,7 +37,7 @@ $ --https://github.com/BatuhanYilmazzz/chat-app.git
 > cd into the directory, install dependencies, build and start
 
 ```sh
-$ cd FoodStationReact
+$ cd chat-app
 $ npm install
 $ npm run build
 $ npm run start
