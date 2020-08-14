@@ -11,11 +11,7 @@
     <img alt="Twitter: BatuhanYilmaz" src="https://img.shields.io/twitter/follow/batuhan38008916.svg?style=social" />
   </a>
 </p>
-<p align="center">
-  <a href="https://github.com/BatuhanYilmazzz/chat-app" target="_blank">
-    Picture
-  </a>
-</p>
+
 
 <br>
 
